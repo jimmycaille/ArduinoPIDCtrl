@@ -1,0 +1,10 @@
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\bin\Debug\PidCtrl.exe.config
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\bin\Debug\PidCtrl.exe
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\bin\Debug\PidCtrl.pdb
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.csprojAssemblyReference.cache
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.Form1.resources
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.Properties.Resources.resources
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.csproj.GenerateResource.cache
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.csproj.CoreCompileInputs.cache
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.exe
+D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.pdb

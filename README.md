@@ -35,7 +35,7 @@ For example for R1=100kΩ, R<sub>high</sub>=800kΩ and R<sub>low</sub>=5kΩ the 
   * $\frac{R<sub>low</sub>}{R<sub>low</sub>+R1}*Vcc = \frac{5}{5+100} *5.0 = 0.24V$
   * Keep in mind that the function is not linear (see LDR_calc.xlsx file)
 * R2 limits the LED current : 220Ω is a good value
-$ adsfasdf$
+$1+1=2$
 
 ## Log
 ### TODO

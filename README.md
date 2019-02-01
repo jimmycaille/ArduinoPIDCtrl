@@ -17,14 +17,24 @@ https://www.instructables.com/id/Arduino-PID-Library-Luminosity-Control/
 - ldr_read     -> Arduino project
 - PidCtrl      -> Visual Studio project
   - PidCtrl\PidCtrl\bin\Debug\PidCtrl.exe -> latest version of the Windows app
+- LDR_calc.xlsx -> File to test different resistor values for the LDR
   
 ## Schematics
 ![Fritzing schematic](https://raw.githubusercontent.com/jimmycaille/ArduinoPIDCtrl/master/Schematics/readme.png "Fritzing schematic")
 
 ### Wiring
 * A0 - R1 - GND
-* A0 - LDR - VCC
+* A0 - LDR - Vcc
 * D3 - LED - R2 - GND
+
+### Resistor values
+* R1 sets the range of the input and depends of the LDR used.
+Measure the LDR value when in the dark and illuminated by a bright light.
+For example for R1=100kΩ, R<sub>high</sub>=1M=800kΩ and R<sub>low</sub>=5kΩ the voltages would be :
+  * \frac{R<sub>high</sub>}{R<sub>high</sub>+R1}*Vcc = \frac{800}{800+100}*5.0 = 4.44V
+  * \frac{R<sub>low</sub>}{R<sub>low</sub>+R1}*Vcc = \frac{5}{5+100}*5.0 = 0.24V
+  * Keep in mind that the function is not linear (see LDR_calc.xlsx file)
+* R2 limits the LED current : 220Ω is a good value
 
 ## Log
 ### TODO

@@ -31,11 +31,10 @@ https://www.instructables.com/id/Arduino-PID-Library-Luminosity-Control/
 * R1 sets the range of the input and depends of the LDR used.
 Measure the LDR value when in the dark and illuminated by a bright light.
 For example for R1=100kΩ, R<sub>high</sub>=800kΩ and R<sub>low</sub>=5kΩ the voltages would be :
-  * $\frac{R<sub>high</sub>}{R<sub>high</sub>+R1}*Vcc = \frac{800}{800+100} *5.0 = 4.44V$
-  * $\frac{R<sub>low</sub>}{R<sub>low</sub>+R1}*Vcc = \frac{5}{5+100} *5.0 = 0.24V$
+  * R<sub>high</sub>/(R<sub>high</sub>+R1)*Vcc = 800/(800+100)*5.0 = 4.44V
+  * R<sub>low</sub>/(R<sub>low</sub>+R1)*Vcc = 5/(5+100)*5.0 = 0.24V
   * Keep in mind that the function is not linear (see LDR_calc.xlsx file)
 * R2 limits the LED current : 220Ω is a good value
-$1+1=2$
 
 ## Log
 ### TODO

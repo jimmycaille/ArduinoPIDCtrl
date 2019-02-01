@@ -8,3 +8,13 @@ D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\P
 D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.csproj.CoreCompileInputs.cache
 D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.exe
 D:\Dropbox\Electronique\arduino\ldr_pid_visualStudio\PidCtrl\PidCtrl\obj\Debug\PidCtrl.pdb
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\bin\Debug\PidCtrl.exe.config
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\bin\Debug\PidCtrl.exe
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\bin\Debug\PidCtrl.pdb
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\obj\Debug\PidCtrl.csprojAssemblyReference.cache
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\obj\Debug\PidCtrl.Form1.resources
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\obj\Debug\PidCtrl.Properties.Resources.resources
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\obj\Debug\PidCtrl.csproj.GenerateResource.cache
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\obj\Debug\PidCtrl.csproj.CoreCompileInputs.cache
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\obj\Debug\PidCtrl.exe
+D:\git\ArduinoPIDCtrl\PidCtrl\PidCtrl\obj\Debug\PidCtrl.pdb

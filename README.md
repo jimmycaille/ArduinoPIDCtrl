@@ -35,7 +35,9 @@ For example for R1=100kΩ, R<sub>high</sub>=800kΩ and R<sub>low</sub>=5kΩ the 
   * R<sub>low</sub>/(R<sub>low</sub>+R1)*Vcc = 5/(5+100)*5.0 = 0.24V
   * Keep in mind that the function is not linear (see LDR_calc.xlsx file)
 * R2 limits the LED current : 220Ω is a good value and is calculed as follows :
-  * R = (Vcc-Vf)/I = (5.0V-2.8V)/0.01A) = 220Ω, Vf being the forward voltage drop of the led (Red ~2.8V) and I the desired current (10mA)
+  * R = (Vcc-Vf)/I = (5.0V-2.8V)/0.01A) = 220Ω
+  * Vf being the forward voltage drop of the led (Red ~2.8V) and I the desired current (10mA),
+  that's the worst case scenario as LEDs tends to have a higher voltage drop and the Arduino Nano can deliver 20mA per pin
 
 ## Log
 ### TODO

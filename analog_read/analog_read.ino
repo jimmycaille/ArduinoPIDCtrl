@@ -67,7 +67,6 @@ void serialReceive(){
     serialPeriod = getValue(input,' ',0).toInt();
   }
 }
-
 void serialSend(){
   Serial.print(val0);
   Serial.print(" ");
